@@ -65,17 +65,9 @@ Replace the `api` variable in the script with your API key:
 api = "your_api_key_here"
 ```
 
-## 📁 File Structure
-
-```
-.
-├── news_api.py     # Main Python script
-└── README.md           # Project README file
-```
-
 ## 📚 Concepts Used
 
-- HTTP requests with `requests`
+- `requests`
 - JSON handling in Python
 - API integration
 - Command-line interaction
@@ -84,3 +76,33 @@ api = "your_api_key_here"
 
 👨‍💻 Created as part of a Python learning journey.
 
+---
+
+## 📁Folder : 
+
+[NewsAPI_.pdf](https://github.com/user-attachments/files/21203535/NewsAPI_.pdf)
+
+---
+
+## Demo : 
+
+<img width="971" height="1020" alt="Screenshot 2025-07-13 141720" src="https://github.com/user-attachments/assets/16322361-e6b4-4c51-9e72-6b315bd9b956" />
+<img width="320" height="925" alt="Screenshot 2025-07-13 114332" src="https://github.com/user-attachments/assets/b3d57238-06a4-45b7-8873-2f021daa57d7" />
+<img width="250" height="889" alt="Screenshot 2025-07-13 114751" src="https://github.com/user-attachments/assets/43cee616-ad20-4819-9b30-bec2704134a8" />
+<img width="370" height="965" alt="Screenshot 2025-07-13 120408" src="https://github.com/user-attachments/assets/70a9956c-7a06-4cb2-b0f9-74628a881b2b" />
+<img width="320" height="798" alt="Screenshot 2025-07-13 140202" src="https://github.com/user-attachments/assets/4d541ce7-b104-45f2-bcd6-31d2651f93c4" />
+<img width="280" height="892" alt="Screenshot 2025-07-13 140431" src="https://github.com/user-attachments/assets/d9b89310-7e04-4586-9cb4-dd46cbc2df4b" />
+<img width="288" height="888" alt="Screenshot 2025-07-13 140626" src="https://github.com/user-attachments/assets/5b13a5ab-94d4-4b1d-b357-8d218a2d579c" />
+
+
+---
+## 💼 Connect with Me
+
+<a href="https://www.linkedin.com/in/manthanterse/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:tersemanthan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
